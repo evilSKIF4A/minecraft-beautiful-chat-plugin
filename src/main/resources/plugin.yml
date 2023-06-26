@@ -1,0 +1,4 @@
+name: beautiful-chat
+main: com.example.Plugin
+version: 0.1
+api-version: 1.15
